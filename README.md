@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://github.com/oakoudad/badge42"><img align="center" src="https://badge.mediaplus.ma/darkgray/gsaladri?1337Badge=off&UM6P=off" alt="gsaladri's 42 stats" /></a>
 <!--
 **PSGui/PSGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
