@@ -1,5 +1,10 @@
-### Hi there 👋
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/gsaladri?1337Badge=off&UM6P=off" alt="gsaladri's 42 stats" /></a>
+### • Guilherme Braga •
+**`Electrical and Computer Engineering Student at ISEP - Student at 42 School Porto`**
+
+Hi! I'm Guilherme and I am an aspiring electrical and computer engineering student diving into the world of coding. Currently hoaning programming skills at 42 School, specializing in C, C++ and web development. Alongside university studies encompassing microcontrollers, circuitry and AI, I'm eager to learn more about automation 🧑🏻‍💻
+
+#
+
 
 <!--
 **PSGui/PSGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
