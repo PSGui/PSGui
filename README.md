@@ -35,7 +35,9 @@ Most of these I only gave a small try at some point. At the moment C is the one 
 <br />
 <a href="https://github.com/PSGui/get_next_line">• Get_Next_Line</a>
 <br />
-Born2beRoot and Push_Swap are under construction! 👷🚧
+• Born2beRoot (under construction! 👷🚧)
+<br />
+• Push_Swap (under construction! 👷🚧)
 
 
 University Projects
