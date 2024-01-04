@@ -16,12 +16,29 @@ Most of these I only gave a small try at some point. At the moment C is the one 
 <img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
 <img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 <br />
 <br />
 
 
 #
 
-### • Main Repositories
+### • Repositories
 
+42 School
+<br />
+<a href="https://github.com/PSGui/42Piscine">• 42 Piscine</a>
+<br />
+<a href="https://github.com/PSGui/libft">• Libft</a>
+<br />
+<a href="https://github.com/PSGui/printf">• Printf</a>
+<br />
+<a href="https://github.com/PSGui/get_next_line">• Get_Next_Line</a>
+<br />
+
+
+University Projects
+<br />
+<a href="https://github.com/PSGui/DEAPC">• DEAPC - Website</a>
+<br />
+<a href="https://github.com/PSGui/DEAPC">• MICMIC - Microcontroller Programming</a>
