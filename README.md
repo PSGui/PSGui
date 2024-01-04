@@ -18,7 +18,7 @@ Most of these I only gave a small try at some point. At the moment C is the one 
 
 ### • Repositories
 
-• 42 School
+• 42 School (Mainly C programming)
 <br />
 <a href="https://github.com/PSGui/42Piscine">→ 42 Piscine</a>
 <br />
