@@ -41,4 +41,4 @@ University Projects
 <br />
 <a href="https://github.com/PSGui/DEAPC">• DEAPC - Website</a>
 <br />
-<a href="https://github.com/PSGui/DEAPC">• MICMIC - Microcontroller Programming</a>
+<a href="https://github.com/PSGui/MICMIC">• MICMIC - Microcontroller Programming</a>
