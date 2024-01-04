@@ -3,6 +3,9 @@
 
 Hi! I'm Guilherme and I am an aspiring electrical and computer engineering student diving into the world of coding. Currently hoaning programming skills at 42 School, specializing in C, C++ and web development. Alongside university studies encompassing microcontrollers, circuitry and AI, I'm eager to learn more about automation 🧑🏻‍💻
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSGui&layout=compact)](https://github.com/PSGui/github-readme-stats)
+
+
 #
 
 ### • Languages and Tools
@@ -16,7 +19,9 @@ Most of these I only gave a small try at some point. At the moment C is the one 
 <img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
 <img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> 
+          
 <br />
 <br />
 
