@@ -12,41 +12,29 @@ Hi! I'm Guilherme and I am an aspiring electrical and computer engineering stude
 
 Most of these I only gave a small try at some point. At the moment C is the one I'm using on a daily basis.
 
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Icon" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> 
-          
-<br />
-<br />
-
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,python,php,linux,sqlite,vim,vscode)](https://skillicons.dev)
 
 #
 
 ### • Repositories
 
-42 School
+• 42 School
 <br />
-<a href="https://github.com/PSGui/42Piscine">• 42 Piscine</a>
+<a href="https://github.com/PSGui/42Piscine">→ 42 Piscine</a>
 <br />
-<a href="https://github.com/PSGui/libft">• Libft</a>
+<a href="https://github.com/PSGui/libft">→ Libft</a>
 <br />
-<a href="https://github.com/PSGui/printf">• Printf</a>
+<a href="https://github.com/PSGui/printf">→ Printf</a>
 <br />
-<a href="https://github.com/PSGui/get_next_line">• Get_Next_Line</a>
+<a href="https://github.com/PSGui/get_next_line">→ Get_Next_Line</a>
 <br />
-• Born2beRoot (under construction! 👷🚧)
+→ Born2beRoot (under construction! 👷🚧)
 <br />
-• Push_Swap (under construction! 👷🚧)
+→ Push_Swap (under construction! 👷🚧)
 
 
-University Projects
+• University Projects
 <br />
-<a href="https://github.com/PSGui/DEAPC">• DEAPC - Website</a>
+<a href="https://github.com/PSGui/DEAPC">→ DEAPC - Website</a>
 <br />
-<a href="https://github.com/PSGui/MICMIC">• MICMIC - Microcontroller Programming</a>
+<a href="https://github.com/PSGui/MICMIC">→ MICMIC - Microcontroller Programming</a>
