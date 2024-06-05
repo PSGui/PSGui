@@ -10,8 +10,6 @@ Hi! I'm Guilherme and I am an aspiring electrical and computer engineering stude
 
 ### • Languages and Tools
 
-Most of these I only gave a small try at some point. At the moment C is the one I'm using on a daily basis.
-
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,python,php,linux,sqlite,vim,vscode)](https://skillicons.dev)
 
 #
