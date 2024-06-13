@@ -1,7 +1,7 @@
 ### • Guilherme Braga
 **`Electrical and Computer Engineering Student at ISEP - Student at 42 School Porto`**
 
-Hi! I'm Guilherme and I am an aspiring electrical and computer engineering student diving into the world of coding. Currently hoaning programming skills at 42 School, specializing in C, C++ and web development. Alongside university studies encompassing microcontrollers, circuitry and AI, I'm eager to learn more about automation 🧑🏻‍💻
+Hi! I'm Guilherme and I am an aspiring electrical and computer engineering student diving into the world of coding. Currently hoaning programming skills at 42 School, specializing in C, C++ and web development. Alongside university studies encompassing microcontrollers, circuitry and AI.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSGui&layout=compact)](https://github.com/PSGui/github-readme-stats)
 
