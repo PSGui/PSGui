@@ -26,13 +26,13 @@ Hi! I'm Guilherme and I am an aspiring electrical and computer engineering stude
 <br />
 <a href="https://github.com/PSGui/get_next_line">→ Get_Next_Line</a>
 <br />
-→ Born2beRoot
+<a href="https://github.com/PSGui/42-Born2BeRoot">→ Born2BeRoot</a>
 <br />
 → Push_Swap (under construction! 👷🚧)
 <br />
 <a href="https://github.com/PSGui/42-Minitalk">→ Minitalk</a>
 <br />
-<a href="https://github.com/PSGui/42-So_Long">→ Minitalk</a>
+<a href="https://github.com/PSGui/42-So_Long">→ So_Long (under construction! 👷🚧)</a>
 
 
 • University Projects
