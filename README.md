@@ -13,7 +13,7 @@ Electrical and computer engineering student diving into the world of coding and 
 ● Coding Tools
 <br />
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=c,html,css,python,php,linux,sqlite,vim,vscode,flutter&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,html,css,python,php,linux,sqlite,vim,vscode)](https://skillicons.dev)
 </p>
 <br />
 ●Electronic Tools
