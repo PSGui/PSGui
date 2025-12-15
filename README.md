@@ -10,7 +10,14 @@ Electrical and computer engineering student diving into the world of coding and 
 
 ### • Languages and Tools
 
+● Coding Tools
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,python,php,linux,sqlite,vim,vscode)](https://skillicons.dev)
+●Electronic Tools
+-KiCad
+-PLECS
+-DAVE
+-Micrium
+-Microchip Studio
 
 #
 
