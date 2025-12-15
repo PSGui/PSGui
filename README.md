@@ -1,5 +1,5 @@
 ### • Guilherme Braga
-**`Electrical and Computer Engineering Student at ISEP - Student at 42 School Porto`**
+**`Electrical and Computer Engineering Student at ISEP`**
 
 Electrical and computer engineering student diving into the world of coding and microcontroler programming
 
@@ -36,3 +36,6 @@ Electrical and computer engineering student diving into the world of coding and 
 <br />
 <a href="https://github.com/PSGui/MICMIC">→ MICMIC - Microcontroller Programming</a>
 <br />
+<a href="https://github.com/PSGui/ELTRP-EC">→ ELTRP-EC - Buck-Boost Converter</a>
+<br />
+<a href="https://github.com/PSGui/LABSI">→ LABSI - Light Control in a Closed Space</a>
