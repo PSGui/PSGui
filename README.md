@@ -3,9 +3,6 @@
 
 Electrical and computer engineering student diving into the world of coding and microcontroler programming
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSGui&layout=compact)](https://github.com/PSGui/github-readme-stats)
-
-
 #
 
 ### • Languages and Tools
