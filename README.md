@@ -11,7 +11,7 @@ Electrical and computer engineering student diving into the world of coding and 
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,php,linux,sqlite,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,php,linux,sqlite,vim,vscode" />
   </a>
 </p>
 <br />
