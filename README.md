@@ -37,7 +37,7 @@ My main interests are embedded systems, electronics, PCB design and industrial a
 
 ### My GitHub Stats
 
-<a href="https://github.com/PSGui"><img src="https://github-readme-stats.vercel.app/api?username=PSGui&amp;show_icons=true&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true" alt="PSGui's GitHub stats"></a>
+<a href="http://www.github.com/PSGui"><img src="https://github-readme-stats.vercel.app/api?username=PSGui&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PSGui's GitHub stats" /></a>
 
 ## 42 projects
 
@@ -48,8 +48,6 @@ My main interests are embedded systems, electronics, PCB design and industrial a
 | [Get Next Line](https://github.com/PSGui/42-Get_next_line) | Line-by-line file reading, including support for multiple file descriptors. | Completed — 125/100 |
 | [Minitalk](https://github.com/PSGui/42-Minitalk) | Client/server text transmission using Unix signals in C. | Completed |
 | [so_long](https://github.com/PSGui/42-So_Long) | Map loading and 2D sprite rendering in C with MiniLibX. | Movement, validation and cleanup are unfinished. |
-
-Minitalk is a completed project; its current repository still has a merge conflict that needs resolving before compilation.
 
 ## Personal projects
 
@@ -70,7 +68,7 @@ Completed travel website coursework with home, flight and checkout pages.
 
 ## Languages and tools
 
-- **Programming:** C, C++, AVR Assembly and Python.
+- **Programming:** C, C++
 - **Embedded development:** Microchip Studio, DAVE and Micrium.
 - **Electronics:** KiCad and PLECS.
 - **Development environment:** Linux, Git and VS Code.
