@@ -49,6 +49,7 @@ My main interests are embedded systems, electronics, PCB design and industrial a
 
 | Project | What is implemented | Current state |
 | --- | --- | --- |
+| [DeskCompanion](https://github.com/PSGui/DeskCompanion_V1) | ESP32 desk device for a clock, Pomodoro timer and PC media information, with a custom PCB in KiCad and an enclosure in FreeCAD. | In development — PCB layout and enclosure CAD available; manufacturing, printing and hardware testing pending. |
 | [ChessGame](https://github.com/PSGui/ChessGame) | Chessboard rendering and piece selection in C++ with SFML. | Builds and runs; movement and chess rules are pending. |
 | [HYROX Tracker](https://github.com/PSGui/hyrox-tracker) | Personal PWA for training, nutrition and body measurements, with local storage and data export. | V1 source available. |
 
