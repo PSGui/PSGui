@@ -55,13 +55,17 @@ My main interests are embedded systems, electronics, PCB design and industrial a
 
 ## Academic projects
 
-### [Microcontroller programming — MICMIC](https://github.com/PSGui/ASSEMBLY_MICMIC)
+### [MICMIC - Microcontroller Programming](https://github.com/PSGui/ASSEMBLY_MICMIC)
 
 ATmega128 coursework in C and AVR Assembly: timers, interrupts, PWM motor control, serial communication, ADC readings and seven-segment displays. The repository contains the source code and assignments for two ISEP projects.
 
-### [DEAPC](https://github.com/PSGui/C_DEAPC)
+### [DEAPC - Computer App Development](https://github.com/PSGui/C_DEAPC)
 
 Completed travel website coursework with home, flight and checkout pages.
+
+### [COMOV - Mobile Communications](https://github.com/PSGui/COMOV_NS3)
+
+V2I (Vehicle to Interface) Simulation using ns3
 
 ## Languages and tools
 
