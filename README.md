@@ -55,6 +55,10 @@ My main interests are embedded systems, electronics, PCB design and industrial a
 
 ## Academic projects
 
+### [PESTA - Curricular Internship](https://github.com/PSGui/NMEA2000-Gateway)
+
+Planing, design and routing of a PCB made to be used as a NMEA2000 Gateway (Sensor Node)
+
 ### [MICMIC - Microcontroller Programming](https://github.com/PSGui/ASSEMBLY_MICMIC)
 
 ATmega128 coursework in C and AVR Assembly: timers, interrupts, PWM motor control, serial communication, ADC readings and seven-segment displays. The repository contains the source code and assignments for two ISEP projects.
